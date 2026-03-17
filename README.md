@@ -1,31 +1,4 @@
-# Блогикум часть 3
 
-## Это часть работы над проектом Блогикум:
-
-- [Блогикум часть 1](https://github.com/KhobotovAD/django_sprint1)
-- [Блогикум часть 2](https://github.com/KhobotovAD/django_sprint3)
-- Блогикум часть 3 ⬅ *этот репозиторий*
-
-## Скриншот:
-
-<details>
-  <summary>Нажмите, чтобы развернуть</summary>
-  <img src="./blogicum/static/img/blogicum.jpg" alt="Изображение">
-</details>
-
-## Технологии:
-
-- Python 3.9
-- Django 3.2
-- SQLite3
-
-## Установка (Windows):
-
-1. Клонирование репозитория
-
-```
-git clone https://github.com/KhobotovAD/django_sprint4.git
-```
 
 2. Переход в директорию django_sprint4
 
@@ -81,8 +54,4 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-11. Деактивация виртуального окружения
 
-```
-deactivate
-```
